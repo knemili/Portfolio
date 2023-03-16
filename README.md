@@ -76,12 +76,12 @@
 							</div>
 						</section>
 
-						<!-- Work Experience -->
+<!-- Work Experience -->
 						<section id="second" class="main special">
 							<header class="major">
 							  <h2>Work Experience</h2>
-							  </header>
-							  <div class="major">
+							</header>
+							<div class="major">
 								<ul>
 								
 									<h3><b>Student Data Science Consultant</b></h3>
@@ -91,9 +91,7 @@
 									  <li>Designed algorithm for precise container shipment ETA calculation using multiple vendors' arrival forecast data</li>
 									  <li>Enhanced client responsiveness by optimizing downstream supply chain activities, leading to greater efficiency and responsiveness in container shipment logistics</li>
 									</ul>
-								 
-								
-								<hr>
+								  <hr>
 								<ul>
 							
 									<h3><b>Application Development Associate (ABAP Developer)</b></h3>
@@ -109,10 +107,9 @@
 									</p>
 								  
 								</ul>
-							  </div>
+							</div>
 							
-						  </section>
-
+						</section>
 						<!-- Projects -->
 							<section id="cta" class="main special">
 								<header class="major">
